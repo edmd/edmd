@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Eryn MacDonald
-- 👀 A curious developer by trade that's picked up a few tricks along the way
-- 🌱 Current side project is based in Ng, Node and RxJS
-- 💞️ I’m looking to collaborate on a side project for 3d face modelling
-- 📫 You can reach me at eryn.macdonald@gmail.com
+
